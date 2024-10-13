@@ -5,7 +5,7 @@
 - npm install discord.js-selfbot-v13 readline chalk
 - node autoPurge
 
-(Enter delays means how frequently it'll look at messages, the default delete delay is 2.5s though)
+(Enter delays means how frequently it'll look at your messages, the default delete delay is 2.5s though)
 
 
 # Make package.json like below if any issues
