@@ -1,4 +1,5 @@
 # discord-auto-purge
+## Deletes past messagse on its own!
 
 - download node.js
 - npm init -y
