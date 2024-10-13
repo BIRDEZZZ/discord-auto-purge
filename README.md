@@ -6,3 +6,19 @@
 - node autoPurge
 
 (Enter delays means how frequently it'll look at messages, the default delete delay is 2.5s though)
+
+
+# Make package.json like below if any issues
+
+```
+{
+  "name": "auto-purge",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "discord.js-selfbot-v13": "^1.0.0"
+  }
+}
+
+```
