@@ -8,7 +8,7 @@
 (Enter delays means how frequently it'll look at your messages, the default delete delay is 2.5s though)
 
 
-# Make package.json like below if any issues
+# Make package.json like this below if any issues from default ^..^
 
 ```
 {
